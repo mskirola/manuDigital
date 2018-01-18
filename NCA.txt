@@ -1,1 +1,2 @@
-NCA NCA test file
+NCA NCA test file.
+Modifications are allowed.
